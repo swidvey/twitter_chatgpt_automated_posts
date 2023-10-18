@@ -13,4 +13,4 @@ Finally, we were able to successfully integrate the OpenAI and Twitter APIs by c
 
 
 
-Will Clean Read Me. 
+Projected Stopped with twitter (X) monthly charge.  
