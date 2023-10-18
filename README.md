@@ -13,4 +13,4 @@ Finally, we were able to successfully integrate the OpenAI and Twitter APIs by c
 
 
 
-Projected Stopped with twitter (X) monthly charge.  
+Projected Stopped with twitter (X)'s yearly charges they are planning for with tweets/retweets. $1 a year is just not worth gving X for this project.   
